@@ -6,5 +6,5 @@
 
 ### To run
 #### Pre-requisites 
-Create a folder corresponding to root\_folder as defined in the code. Default code mounts google drives and creates files there, but you can chagne it to use your local filesystem.
-Create a folder corresponding to root\_folder+"/gan/images/"
+###### Create a folder corresponding to root\_folder as defined in the code. Default code mounts google drives and creates files there, but you can chagne it to use your local filesystem.
+###### Create a folder corresponding to root\_folder+"/gan/images/"
